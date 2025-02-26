@@ -60,8 +60,6 @@ Each model was evaluated based on the following metrics:
 | Model 5 (Token + Char + Positional)          | 81.52%      | 0.817906        | 0.815165     | 0.811884       |
 | Model 6 (Token + Char + Relative Positional) | 83.34%      | 0.836608        | 0.833449     | 0.828667       |
 
-(Replace XX with actual values from model evaluation.)
-
 ## How to Run the Notebook
 
 1. Install dependencies:
